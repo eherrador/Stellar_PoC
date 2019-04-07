@@ -1,0 +1,25 @@
+{
+  "name": "astral",
+  "version": "0.0.874",
+  "description": "Astral es un proyecto para definir una platforma de pagos basado en tokens & blockchain",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "node-fetch": "2.3.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "request": "2.88.0",
+    "stellar-sdk": "0.15.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
